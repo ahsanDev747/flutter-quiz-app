@@ -1,6 +1,6 @@
 # flutter_quiz_app
 
-A new Flutter project.
+The app allow users to test their knowledge of various science subjects by taking quizzes. The app typically includes features such as multiple-choice questions, timed quizzes, and score tracking. The user can select from a variety of science subjects, including Physics, Chemistry, Biology, and Math.
 
 ## Getting Started
 
